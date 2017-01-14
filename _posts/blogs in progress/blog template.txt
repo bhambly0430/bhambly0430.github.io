@@ -1,0 +1,6 @@
+---
+layout: post
+title: "Name of post!"
+date: YYY-MM-DD
+---
+% Save as YYYY-MM-DD-name-of-post.md
