@@ -13,7 +13,7 @@ The differences between these two equations boil down to the dominating geometry
 
 In 1984 Aoki and Osteryoung developed a model that describes linear sweep voltammograms for small microelectrodes under various conditions. The complexity of this model has limited its use when compared to other more easily calculatable models; e.g., Randles–Sevcik, microelectrode, and Nicholson-Shain. Aoki and Osteryoungs model can be seen below.
 
-![Aoki-Osteryoung Model](2017-01-28-Equations.png =0.5x)
+![Aoki-Osteryoung Model][2017-01-28-photo.PNG]
 
 Where n is the number of electrodes in the reaction, F is Faraday's number, r is electrode radius, R is the gas constant, D is the diffusion coefficient, T is the temperature, v is the scan rate, t is the time, c is the concentration, E_i is the initial potential, and E^o is the standard redox potential.
 
