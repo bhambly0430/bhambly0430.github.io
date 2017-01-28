@@ -1,4 +1,4 @@
----
+ï»¿---
 layout: post
 title: "Voltammogram Model"
 date: 2017-01-28
@@ -9,9 +9,9 @@ For the past few weeks, I have been working on a model that describes the voltam
 
 The current description of modern linear sweep voltammetry falls under one of two regimes: diffusion limited current or steady-state current. Large electrodes (macro electrode - millimeter size radius) produce the diffusion limited currents and produce a peak, and the maximum value of this peak is described by the *Randles-Sevick* equation. Small electrodes (microelectrode - micrometer size radius) do not show the same diffusion limited peak shape. Instead, microelectrodes produce a steady-state (sigmoidal) shape curve which is described by the *microelectrode* equation (great name right!). 
 
-The differences between these two equations boil down to the dominating geometry of their concentration gradients. Macro electrodes have a linear diffusion geometry which microelectrode have a hemispherical dominating diffusion geometry. A problem arises when the experimental conditions do not match with the ideal conditions assumed in the microelectrode and Randles–Sevcik equation. 
+The differences between these two equations boil down to the dominating geometry of their concentration gradients. Macro electrodes have a linear diffusion geometry which microelectrode have a hemispherical dominating diffusion geometry. A problem arises when the experimental conditions do not match with the ideal conditions assumed in the microelectrode and Randlesâ€“Sevcik equation. 
 
-In 1984 Aoki and Osteryoung developed a model that describes linear sweep voltammograms for small microelectrodes under various conditions. The complexity of this model has limited its use when compared to other more easily calculatable models; e.g., Randles–Sevcik, microelectrode, and Nicholson-Shain. Aoki and Osteryoungs model can be seen below.
+In 1984 Aoki and Osteryoung developed a model that describes linear sweep voltammograms for small microelectrodes under various conditions. The complexity of this model has limited its use when compared to other more easily calculatable models; e.g., Randlesâ€“Sevcik, microelectrode, and Nicholson-Shain. Aoki and Osteryoungs model can be seen below.
 
 ![Aoki-Osteryoung Model][2017-01-28-photo.PNG]
 
