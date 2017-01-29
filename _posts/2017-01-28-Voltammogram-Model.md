@@ -13,8 +13,8 @@ The differences between these two equations boil down to the dominating geometry
 
 In 1984 Aoki and Osteryoung developed a model that describes linear sweep voltammograms for small microelectrodes under various conditions. The complexity of this model has limited its use when compared to other more easily calculatable models; e.g., Randles–Sevcik, microelectrode, and Nicholson-Shain. Aoki and Osteryoungs model can be seen below.
 
-<img src=2017-01-28-photo.PNG>
-
+<img src="2017-01-28-photo.PNG" height="350" width="auto" align="middle">
+ 
 Where n is the number of electrodes in the reaction, F is Faraday's number, r is electrode radius, R is the gas constant, D is the diffusion coefficient, T is the temperature, v is the scan rate, t is the time, c is the concentration, E_i is the initial potential, and E^o is the standard redox potential.
 
 As you can see this you can not plug this model into excel or your calculator to generate voltammograms. It was important that I was able to generate theoretical voltammograms using this model, so I created a piece of software to just that. You can download the software from the project's [GitHub Page](www.github.com/bhambly0430/Voltammogram_App).
