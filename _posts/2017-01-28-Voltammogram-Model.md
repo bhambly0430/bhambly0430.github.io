@@ -12,8 +12,6 @@ The current description of modern linear sweep voltammetry falls under one of tw
 The differences between these two equations boil down to the dominating geometry of their concentration gradients. Macro electrodes have a linear diffusion geometry which microelectrode have a hemispherical dominating diffusion geometry. A problem arises when the experimental conditions do not match with the ideal conditions assumed in the microelectrode and Randles–Sevcik equation. 
 
 In 1984 Aoki and Osteryoung developed a model that describes linear sweep voltammograms for small microelectrodes under various conditions. The complexity of this model has limited its use when compared to other more easily calculatable models; e.g., Randles–Sevcik, microelectrode, and Nicholson-Shain. Aoki and Osteryoungs model can be seen below.
-
-<img src="2017-01-28-photo.png" height="350" width="auto" align="middle">
  
 Where n is the number of electrodes in the reaction, F is Faraday's number, r is electrode radius, R is the gas constant, D is the diffusion coefficient, T is the temperature, v is the scan rate, t is the time, c is the concentration, E_i is the initial potential, and E^o is the standard redox potential.
 
