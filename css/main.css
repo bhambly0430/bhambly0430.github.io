@@ -1,9 +1,8 @@
-
 body {
     margin: 60px auto;
     width: 70%;
     background-image: url("bhambly0430.github.io / css / photo.png ");
-    background-size: 0.5x
+    background-size: 0.5x;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
