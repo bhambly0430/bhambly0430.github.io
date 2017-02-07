@@ -3,8 +3,6 @@ body {
     width: 70%;
     background-image: url("photo.png");
     background-size: cover;
-    filter: alpha(Opacity=50);
-    opacity: 0.5;
 }    
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
