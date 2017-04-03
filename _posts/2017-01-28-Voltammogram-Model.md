@@ -4,7 +4,8 @@ title: "Voltammogram Model"
 date: 2017-01-28
 ---
 
-### Voltammogram Model
+## Voltammogram Model
+
 For the past few weeks, I have been working on a model that describes the voltammogram for a microdisk electrode. This model has the unique ability to describe the theoretical steady-state response that is typical for a microdisk electrode, but the model can also describe non-ideal conditions; e.g., very low or high diffusion coefficients and scan rates.
 
 The current description of modern linear sweep voltammetry falls under one of two regimes: diffusion limited current or steady-state current. Large electrodes (macro electrode - millimeter size radius) produce the diffusion limited currents and produce a peak, and the *Randles-Sevick equation* describes the maximum current value of this peak.  Small electrodes (microelectrode - micrometer size radius) do not show the same diffusion limited peak shape. Instead, microelectrodes produce a steady-state (sigmoidal) shape curve which is described by the *microelectrode* equation. 
