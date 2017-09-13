@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("photo.png");
+    background-color: white;
     background-size: cover;
 }    
 nav ul, footer ul {
