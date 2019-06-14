@@ -2,3 +2,5 @@ name: Bradley Hambly
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 google_analytics: UA-90317763-1
+
+theme: jekyll-theme-cayman
